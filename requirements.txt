@@ -1,0 +1,5 @@
+ttkthemes
+Pillow
+requests
+psutil
+pyinstaller 
